@@ -65,5 +65,40 @@ public class DoubleInteger {
 		int num9 = 8;
 		int num10 = 3;
 		System.out.println(num9 + num10);
+		
+//		問題11
+		int num11 = 10;
+		int num12 = 4;
+		System.out.println(num11 - num12);
+		
+//		問題12
+		int num13 = 6;
+		int num14 = 7;
+		System.out.println(num13 * num14);
+		
+//		問題13
+		String name = "take";
+		int age = 20;
+		System.out.println(name + "は次の誕生日で" + (age+1)  +"歳です。");
+		
+//		問題14
+		int num15 = 8;
+		int num16 = 3;
+		System.out.print("足し算:" + (num15+num16)+" ");
+		System.out.print("引き算:" + (num15-num16)+" ");
+		System.out.print("掛け算:" + (num15*num16)+" ");
+		System.out.print("割り算:" + (num15/num16)+" ");
+		System.out.println("あまり:" + (num15%num16)+" ");
+		
+//		問題15
+		int test = 75;
+		int test1 = 88;
+		int test2 = 92;
+		int sum = test + test1 + test2;
+		System.out.println("平均値:" + (sum/3));
+		
+//		問題16
+		int sell = 12000;
+		System.out.println(sell * 0.7);
 	}
 }
