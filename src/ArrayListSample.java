@@ -46,6 +46,5 @@ public class ArrayListSample {
 		System.out.println(value2);
 		
 		nameMap.remove("Alice");
-		
 	}
 }

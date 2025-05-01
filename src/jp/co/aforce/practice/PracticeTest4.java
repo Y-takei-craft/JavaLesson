@@ -73,6 +73,6 @@ public class PracticeTest4 {
 			message = "不正な月です";
 			break;
 		}
-		System.out.println(calen + "は"+ message);
+		System.out.println(calen + "月は"+ message);
 	}
 }
